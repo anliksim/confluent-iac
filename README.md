@@ -1,6 +1,12 @@
 # Confluent IaC
 
-Infrastructure as Code for Confluent Cloud resources.
+Infrastructure-as-Code for Confluent Cloud resources.
+
+## Terraform
+
+For official Confluent terraform provider examples, see [Terraform Provider for Confluent / Examples](https://github.com/confluentinc/terraform-provider-confluent/tree/master/examples/configurations).
+
+For Policy-as-Code examples using Terraform Sentinel, see [Confluent Sentinel Policies for Terraform](https://github.com/confluentinc/policy-library-confluent-terraform).
 
 
 ## Cloud API Key
